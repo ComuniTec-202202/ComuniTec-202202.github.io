@@ -13,6 +13,10 @@
     .primera-seccion{
         margin-bottom: 20%;
     }
+    
+    .mi-about{
+        width="300" height="169"
+    }
 
 }
   
@@ -22,6 +26,10 @@
     }
     .primera-seccion{
         margin-bottom: 20%;
+    }
+    
+    .mi-about{
+        width="300" height="169"
     }
     
 } 
