@@ -1,6 +1,6 @@
 @media screen and (min-width: 721px) and (max-width: 1024px){
  html{
- width: 720px;
+ width: 1024px;
  }
  
     .primera-seccion{
@@ -40,7 +40,7 @@
   
 @media screen and (max-width: 500px){
  html{
- width: 720px;
+ width: 500px;
  }
     .primera-seccion{
         margin-bottom: 10%;
