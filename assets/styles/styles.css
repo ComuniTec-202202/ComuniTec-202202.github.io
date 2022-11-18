@@ -5,8 +5,12 @@
     }
     
     .la1raderecha{
-        float: left;
+        float: none;
         width:90%;
+    }
+ 
+    .la1raizquierda{
+    float: none;
     }
     
   }
@@ -24,6 +28,10 @@
         width:90%;
         box-shadow: 0px 0px 20px blue;
     }
+ 
+     .la1raizquierda{
+    float: none;
+    }
 
 }
   
@@ -32,7 +40,11 @@
     .primera-seccion{
         margin-bottom: 20%;
     }
-    
+ 
+    .la1raizquierda{
+    float: none;
+    }
+ 
     .la1raderecha{
         float: none;
         width:90%;
