@@ -8,7 +8,8 @@
     }
     
     .la1raderecha{
-        width="300" height="169"
+        float: left;
+        width:90%;
     }
     
   }
@@ -24,7 +25,8 @@
     }
     
     .la1raderecha{
-        width="300" height="169"
+        float: left;
+        width:90%;
     }
 
 }
@@ -38,7 +40,8 @@
     }
     
     .la1raderecha{
-        width="300" height="169"
+        float: left;
+        width:90%;
     }
     
 } 
