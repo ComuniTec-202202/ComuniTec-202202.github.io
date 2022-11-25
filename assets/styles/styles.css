@@ -3,6 +3,11 @@
  width: 1024px;
  }
  
+     @font-face{
+      font-family:RachelBrown;
+      src: url(RachelBrown.otf);
+    }	
+ 
     .primera-seccion{
         margin-bottom: 10%;
     }
